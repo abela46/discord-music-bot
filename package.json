@@ -8,9 +8,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/fekt/discord-giveaway-bot"
+    "url": "https://github.com/ghaku/discord-giveaway-bot"
   },
-  "author": "https://github.com/fekt",
+  "author": "https://github.com/ghaku",
   "license": "Apache-2.0",
   "dependencies": {
     "simple-youtube-api": "^5.2.1",
