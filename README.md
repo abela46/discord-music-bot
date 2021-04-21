@@ -10,7 +10,7 @@ Create a folder.
 Open Command Prompt.
 Type in: cd The path to your new folder. (Example: C:\Users\User\Desktop\New folder)
 Press enter.
-After that type in: git clone https://github.com/fekt/discord-music-bot.git
+After that type in: git clone https://github.com/ghaku/discord-music-bot.git
 Press enter.
 When you see all Github files in your folder you installed the bot succesfully.
 ```
@@ -50,7 +50,7 @@ If you have a problem starting the bot you can always open an issue in this repo
 
 ## Contributing
 
-1. [Fork the repository!](https://github.com/fekt/discord-music-bot/fork)
+1. [Fork the repository!](https://github.com/ghaku/discord-music-bot/fork)
 2. Clone your fork: `git clone https://github.com/your-username/discord-music-bot.git`
 3. Create your feature branch: `git checkout -b my-new-feature`
 4. Commit your changes: `git commit -am 'Add some feature'`
@@ -59,6 +59,6 @@ If you have a problem starting the bot you can always open an issue in this repo
 
 ## Author
 
-Authored and maintained by fekt.
+Authored and maintained by ghaku.
 
-> GitHub [@fekt](https://github.com/fekt)
+> GitHub [@ghaku](https://github.com/ghaku)
